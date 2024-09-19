@@ -8,4 +8,4 @@ nama = input("masukkan nama ")
 nama_panggilan = input("masukkan nama panggilan kamu: ")
 
 print("Nama saya, " + nama)
-print("Kamu bisa panggil saya", nama_panggilan)
+print("Kamu bisa memanggil saya", nama_panggilan)
